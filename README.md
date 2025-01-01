@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Sabbir Ahmed
+- 👋 Hi, I’m Sabbir Ahmed, a data analyst
 - 👀 I’m interested in python, SQL, analytics
 - 🌱 I’m currently learning python and data analytics
-- 💞️ I’m looking to collaborate on python projects
+- 💞️ I’m looking to collaborate on python projects for data analytics
 - 📫 How to reach me linkedin.com/in/sabbir08
 
 <!---
